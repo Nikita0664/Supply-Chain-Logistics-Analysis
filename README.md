@@ -301,11 +301,11 @@ enterprise-supply-chain-logistics-analysis/
 
 ## Author
 
-### Vipul Paighan
+### Nikita Kumare
 
-Email: [vipul.paighan.in@gmail.com](mailto:vipul.paighan.in@gmail.com)
+Email: [nikkikumare664@gmail.com]
 
-GitHub: https://github.com/vipulsystems
+GitHub: https://github.com/Nikita0664
 
 ---
 
